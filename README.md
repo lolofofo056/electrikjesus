@@ -1,12 +1,12 @@
 # What is Jon all about?
-[![electrikjesus github stats](https://github-readme-stats.vercel.app/api?username=electrikjesus&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&theme=tokyonight)](https://github.com/electrikjesus)
+[![electrikjesus github stats](https://github-stats-extended.vercel.app/api?username=electrikjesus&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&theme=tokyonight)](https://github.com/electrikjesus)
 
 ## Life Goals
 - 📱 I work to bring the dreams of those around me to reality. Incorporator and CTO of BlissLabs, Founder of Bliss Co-Labs, Bliss OS, Android-Generic Project and contributor to even more.
 - 💻 Currently working at [Navorpala Tech (Bliss Co-Labs)](https://navotpala.tech) on [Bass OS & Bass Toolkit](https://bassos.navotpala.tech), and contributing to OSS projects like [Bliss OS](https://blissos.org), [Android-Generic Project](https://android-generic.github.io), [Android-x86](https://www.android-x86.org/), [Waydroid](https://waydro.id) and [more](https://blisslabs.org)
 
 ## What I Work On
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrikjesus&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/electrikjesus)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=electrikjesus&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/electrikjesus)
 
 <!-- [![Jon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=electrikjesus)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/electrikjesus)) -->
 
